@@ -2,7 +2,7 @@
 
 Fase 02 BootCamp 9.0
 
-#Denpendêncies:
+#Denpendências:
 
 <ul>
 <li>sequelize</li>
